@@ -36,7 +36,7 @@ jobs:
           echo test, and deploy your project.
       - name: java version
         run: java --version
-      - name:maven version
+      - name: maven version
         run: maven --version
       - name: python version
         run: python --version
